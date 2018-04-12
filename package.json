@@ -1,0 +1,21 @@
+{
+  "name": "basic--login-form1",
+  "version": "1.0.0",
+  "description": "login-form",
+  "main": "gulpfile.js",
+  "devDependencies": {
+    "autoprefixer": "^8.2.0",
+    "browser-sync": "^2.23.6",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-cli": "^2.0.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-plumber": "^1.2.0",
+    "gulp-postcss": "^7.0.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^3.0.0",
+    "precss": "^3.1.2"
+  },
+  "dependencies": {}
+}
